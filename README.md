@@ -1,87 +1,67 @@
-## 🌐 Socials
+# Hi, I'm Hoàng Quốc Việt 👋
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://www.facebook.com/hoang.usuk)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://www.instagram.com/gnoah_teiv/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vi%E1%BB%87t-ho%C3%A0ng-075237363/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:vh971190@gmail.com)
+### Final-year Information Systems student · Aspiring Backend / Full-Stack Engineer
 
----
+I build full-stack web applications and enjoy **backend work** the most — designing secure
+authentication, keeping data consistent under concurrent load, and turning slow database queries
+into fast ones. I care more about *why* a design was chosen than about just getting it to work,
+and I'm currently looking for a **software engineering internship** where I can grow through
+careful code review and solid testing habits.
 
-# 💻 Tech Stack
-
-## 🧠 Programming Languages
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-
-## 🎨 Frontend Development
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge\&logo=vuedotjs\&logoColor=%234FC08D)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-## ⚙️ Backend Development
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge\&logo=.net\&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge\&logo=nodemon\&logoColor=%BBDEAD)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge\&logo=npm\&logoColor=white)
-
-## 🗄️ Database & BaaS
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-
-## ☁️ Cloud & Deployment
-
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge\&logo=render\&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge\&logo=streamlit\&logoColor=white)
-
-## 🛠️ Tools & Platforms
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge\&logo=eslint\&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge\&logo=jira\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-
-## 🎮 Others
-
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge\&logo=firefox\&logoColor=#FF7139)
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge\&logo=riotgames\&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge\&logo=steam\&logoColor=white)
+- 🎓 B.S. in Information Systems @ **University of Science (VNU-HCM)** · GPA **3.70 / 4.0**
+- 🔭 Building **[TOEIC Green](https://toeicgreen.com)** — a TOEIC practice platform, live in production
+- 🌱 Going deeper into backend architecture, databases, and system design
+- 🌐 Portfolio → **[gnoahteiv.vercel.app](https://gnoahteiv.vercel.app/)**
+- 📫 Email → **vh971190@gmail.com**
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 Featured Projects
 
-![](https://github-readme-stats.shion.dev/api?username=Caubeamap\&theme=default\&hide_border=false\&include_all_commits=false\&count_private=false)
+### 🟢 [TOEIC Green](https://toeicgreen.com) &nbsp;·&nbsp; *Full-Stack Developer (solo) · Live in production*
+A web platform for practicing the TOEIC Listening & Reading exam — full-length mock tests,
+automated scoring with the official scaled-score conversion, vocabulary flashcards, and progress tracking.
 
-<br/>
+- **Backend:** NestJS + PostgreSQL (Prisma), Redis-backed per-endpoint rate limiting
+- **Auth:** email verification, Google OAuth, and JWT refresh-token rotation
+- **Frontend:** Next.js + React test interface with countdown timer, question flagging, and per-question review
+- **Deploy:** Google Cloud Run + Vercel, Supabase, Upstash Redis, Cloudflare R2
 
-![](https://streak-stats.demolab.com/?user=Caubeamap\&theme=default\&hide_border=false)
+`NestJS` &nbsp;`Next.js` &nbsp;`TypeScript` &nbsp;`PostgreSQL` &nbsp;`Prisma` &nbsp;`Redis` &nbsp;`Docker`
 
-<br/>
+### 🐾 [PetCareX System](https://github.com/Caubeamap/Project_CSDLNC) &nbsp;·&nbsp; *Backend Developer & UI Support · Team of 5*
+A multi-branch pet-care chain management system covering appointment scheduling, medical &
+vaccination records, product sales, and a membership / loyalty program.
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Caubeamap\&theme=default\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+- Built customer-facing REST APIs (profiles, booking, orders) with Node.js + Express + JWT
+- Wrote stored procedures & triggers in SQL Server; applied indexing & partitioning to keep
+  queries fast on tables with **70,000+ records**
+- Supported the React UI (Tailwind CSS, shadcn/ui, Zustand)
+
+`React` &nbsp;`Node.js` &nbsp;`Express` &nbsp;`SQL Server` &nbsp;`Tailwind CSS`
 
 ---
 
-## 🏆 GitHub Trophies
+## 🛠️ Tech Stack
 
-![](https://github-profile-trophy.vercel.app/?username=Caubeamap\&theme=flat\&no-frame=false\&no-bg=true\&margin-w=4)
+- **Languages:** C/C++, JavaScript, TypeScript, HTML/CSS
+- **Frontend:** React, Next.js, Tailwind CSS, Vite
+- **Backend:** Node.js, Express, NestJS, Prisma
+- **Databases:** PostgreSQL, SQL Server, MySQL, Oracle, Supabase, Redis
+- **Cloud & DevOps:** Google Cloud, Docker, Vercel, Git, Postman
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=Caubeamap\&icon=0\&color=0)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats
 
-<!-- Proudly customized for a cleaner GitHub profile -->
+![Caubeamap's GitHub stats](https://github-readme-stats.shion.dev/api?username=Caubeamap&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Caubeamap&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vi%E1%BB%87t-ho%C3%A0ng-075237363/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gnoahteiv.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vh971190@gmail.com)
